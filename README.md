@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Afzal! 👋
 
-<!--
-**AfzalKhan113/AfzalKhan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Engineer and Web Developer passionate about building interactive tools and visualizing data.
 
-Here are some ideas to get you started:
+🚀 **Check out my Portfolio:** [**AfzalKhan113.github.io**](https://Afzalkhan.github.io)
+*(Visit to see my latest projects including the Word Cloud App!)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+* **Languages:** Python, SQL, HTML, CSS, JavaScript
+* **Tools:** Git, GitHub, Cursor AI, Power BI, Excel
+* **Interests:** Web Development, Data Science, AI Prompts
+
+### 📈 My Stats
+![Afzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfzalKhan113&show_icons=true&theme=radical)
+
+---
+*Generated with ❤️ using AI*
