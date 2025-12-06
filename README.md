@@ -2,7 +2,7 @@
 
 I am a Data Engineer and Web Developer passionate about building interactive tools and visualizing data.
 
-🚀 **Check out my Portfolio:** [**AfzalKhan113.github.io**](https://Afzalkhan.github.io)
+🚀 **Check out my Portfolio:** [**AfzalKhan.github.io**](https://Afzalkhan.github.io)
 *(Visit to see my latest projects including the Word Cloud App!)*
 
 ---
