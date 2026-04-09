@@ -13,7 +13,7 @@ I am a Data Engineer and Web Developer passionate about building interactive too
 * **Interests:** Web Development, Data Science, AI Prompts
 
 ### 📈 My Stats
-![Afzal's GitHub stats](https://github-readme-stats-k86v55m6i-afzalkhan113s-projects.vercel.app/api?username=AfzalKhan113&show_icons=true&theme=radical)
+![Afzal's GitHub stats](https://github-readme-stats-nu-wheat-35.vercel.app/api?username=AfzalKhan113&show_icons=true&theme=radical)
 
 ---
 *Generated with ❤️ using AI*
